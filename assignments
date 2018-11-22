@@ -1,0 +1,8 @@
+1. Write a program containing all data type declarations. 
+Print and check their default values.
+
+2. Store 10 colors in an ArrayList and display any 3 colors randomly.
+
+3. Take a String of any length from the users.
+Find the count of each character in the string.
+Store the character and its count in a 2 dimensional array.
